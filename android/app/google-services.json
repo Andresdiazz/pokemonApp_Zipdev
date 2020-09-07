@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "795332954230",
+    "firebase_url": "https://zipdev-4ebab.firebaseio.com",
+    "project_id": "zipdev-4ebab",
+    "storage_bucket": "zipdev-4ebab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795332954230:android:ce2babac6ab03259d87757",
+        "android_client_info": {
+          "package_name": "com.example.zipdev_poke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795332954230-gbpk7kshdsskgov71nrd2rrmk1c9i6j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zipdev_poke",
+            "certificate_hash": "13cca876b0daddc7221a82dbe73a47f9f3fb468f"
+          }
+        },
+        {
+          "client_id": "795332954230-jsufrp172qmpo4huaom7s1go0k6f9tp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA5ErcpfocCbtOa4UqWy6KUfNchu1Pbhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795332954230-jsufrp172qmpo4huaom7s1go0k6f9tp2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795332954230-ipl02anlf7lm6g45rvmalh7vk1lk5792.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zipdevPoke"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
